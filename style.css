@@ -53,13 +53,13 @@ h3 {
 }
 
 h4 {
-	font-size: 2.0rem;
+	font-size: 2.2rem;
 	line-height: 1.35;
 	letter-spacing: -.08rem;
 }
 
 h5 {
-	font-size: 1.8rem;
+	font-size: 1.6rem;
 	line-height: 1.2;
 	letter-spacing: -.08rem;
 }
@@ -207,4 +207,14 @@ blockquote {
 		position: sticky;
 		top: 0;
 	}
+}
+
+/* Additional styles
+––––––––––––––––––––––––––––––––––––––––––––––––– */
+hr.block1 {
+	border: 2px solid  #37474F;
+  }
+
+hr.dashed1 {
+	border: 2px dashed #37474F;
 }
